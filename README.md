@@ -13,3 +13,4 @@ The **performance optimization** comes from dividing files into smaller segments
 This project demonstrates key concepts in **multithreading, concurrency control, and file handling**, making it an excellent learning experience for C++ programmers interested in **high-performance computing**. Future enhancements could include **support for advanced compression algorithms like Huffman coding or Lempel-Ziv-Welch (LZW), a graphical user interface (GUI), and cloud-based file processing**. This project serves as a **resume-worthy implementation** of **parallel processing** and **efficient file management**, highlighting the advantages of **multithreading in system-level programming**. By optimizing file compression speed while maintaining data accuracy, this C++ application showcases the power of **concurrent computing** in real-world applications.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/70e14760-fda2-4914-b2ea-9ab54596d9d8)
